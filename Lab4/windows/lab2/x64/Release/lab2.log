@@ -1,0 +1,30 @@
+﻿  Basic.cpp
+  evalstate.cpp
+  exp.cpp
+  parser.cpp
+  program.cpp
+  statement.cpp
+  error.cpp
+  lexicon.cpp
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\lexicon.cpp(312): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  simpio.cpp
+  strlib.cpp
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(107): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(119): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(133): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(153): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(219): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\strlib.cpp(229): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tokenscanner.cpp
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\tokenscanner.cpp(149): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\hp\desktop\c++\lab4\windows\lab2\stanfordcpplib\tokenscanner.cpp(180): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  561 of 561 functions (100.0%) were compiled.
+    115 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  lab2.vcxproj -> C:\Users\hp\Desktop\C++\Lab4\windows\x64\Release\lab2.exe
