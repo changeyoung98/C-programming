@@ -1,2 +1,2 @@
-# C-programming
+# C++ programming
 Projects of C++ programming
